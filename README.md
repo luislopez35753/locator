@@ -1,2 +1,3 @@
 # locator
-Locator
+
+git clone https://github.com/thelinuxchoice/locator
